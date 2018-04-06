@@ -13,5 +13,5 @@
 		<br /><br />
 		<input type="submit" value="login!" />
 		<br /><br />
-		Ainda não cadastrado? <a href="cadastrar_cliente.php">Cadastre-o aqui!</a>
+		Ainda não cadastrado? <a href="cad_cliente.php">Cadastre-o aqui!</a>
 	
